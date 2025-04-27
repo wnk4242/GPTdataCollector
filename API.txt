@@ -1,1 +1,1 @@
-Insert your API here.
+Insert your API key here.
